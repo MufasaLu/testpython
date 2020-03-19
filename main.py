@@ -1,2 +1,3 @@
-name = "lorena"
+name = input()
 print(name)
+
